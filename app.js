@@ -5,3 +5,9 @@ const showName = name => {
 const showFullName = (name, lastName) => {
   console.log(`${name} ${lastName}, hello!`);
 };
+
+();
+
+();
+
+();
