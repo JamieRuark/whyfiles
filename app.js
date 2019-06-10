@@ -1,1 +1,1 @@
-console.log(123);
+const showName = name => console.log(name);
