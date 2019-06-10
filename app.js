@@ -1,1 +1,3 @@
-const showName = name => console.log(name);
+const showName = name => {
+  if (name !== 'Max') console.log(`${name}, hello`);
+};
