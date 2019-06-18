@@ -5,3 +5,8 @@ h1 {
 p {
   color: red;
 }
+
+footer {
+  background-color: grey;
+  width: 200px;
+}
